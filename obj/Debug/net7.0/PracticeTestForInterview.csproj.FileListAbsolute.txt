@@ -1,0 +1,15 @@
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\bin\Debug\net7.0\PracticeTestForInterview.exe
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\bin\Debug\net7.0\PracticeTestForInterview.deps.json
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\bin\Debug\net7.0\PracticeTestForInterview.runtimeconfig.json
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\bin\Debug\net7.0\PracticeTestForInterview.dll
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\bin\Debug\net7.0\PracticeTestForInterview.pdb
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.csproj.AssemblyReference.cache
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.AssemblyInfoInputs.cache
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.AssemblyInfo.cs
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.csproj.CoreCompileInputs.cache
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.dll
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\refint\PracticeTestForInterview.dll
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.pdb
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\PracticeTestForInterview.genruntimeconfig.cache
+C:\Users\KcFrank\Desktop\PracticeTestForInterview\obj\Debug\net7.0\ref\PracticeTestForInterview.dll
